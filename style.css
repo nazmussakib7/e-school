@@ -1,0 +1,82 @@
+.container{
+    margin-bottom: 25px;
+}
+
+.top-bg{
+    background-color:  #F0FFF0;
+    width: 1440px;
+    height: 576px;
+   
+}
+.sign-btn{
+    background-color: #21B573;
+    padding: 8px 28px;
+    border:none;
+     border-radius: 33px;
+     color: white;
+}
+.navbar{
+    margin: 0px 70px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+}
+.heading-text{
+    line-height: 25px;
+}
+#Books{
+    background-color: white;
+    height: 300px;
+    margin-top: 30px;
+}
+    
+#Books img{
+    margin-left:70px;
+}
+
+.book1{
+
+background:  #F8FFFB;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+padding: 20px 20px;
+
+}
+.card{
+ background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+#Courses{
+    margin-bottom: 50px ;
+}
+.course-group{
+    margin-bottom: 64px;
+}
+#blog{
+    margin:40px 0px;
+}
+.media img{
+    width:100px;
+    height: 100px;
+    margin-left:200px;
+}
+.man-text{   
+font-style: normal;
+font-weight:400px ;
+font-size: 15px;
+line-height: 30px;
+text-align: justify;
+margin-right:131px;
+
+}
+.testimonial{
+    background-color: white;
+    margin:70px 0px;
+}
+#Other{
+    background-color: black;
+    color:white;
+    width: 1440px;
+height: 369px;
+padding:50px 40px;
+}
